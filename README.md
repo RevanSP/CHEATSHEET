@@ -6,7 +6,7 @@
     <li>CSS</li>
     <li>JAVASCRIPT</li>
     <li>BOOTSTRAP</li>
-    <li>JQUERY</li>li>
+    <li>JQUERY</li>
     <li>PHP</li>
 </ul>
     <table>
